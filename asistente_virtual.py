@@ -1,5 +1,3 @@
-
-
 import pywhatkit
 import pyjokes
 import webbrowser
@@ -9,7 +7,7 @@ import yfinance as yf
 import pyttsx3
 import speech_recognition as sr
 
-#variables
+#voices variable
 id_v1 = "KEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Speech\Voices\Tokens\TTS_MS_ES-ES_HELENA_11.0"
 #escucha de microfono y comprender texto
 
